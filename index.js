@@ -21,6 +21,7 @@ const TEMPLATES = [
   green('vue'),
   green('vue-ts'),
   magenta('vue-vite'),
+  magenta('vue-vite-ts'),
   yellow('taro-mp'),
 ]
 
